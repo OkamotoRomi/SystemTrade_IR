@@ -306,7 +306,7 @@ STARTPROC_AUTO:
             Dictionary<DateTime, string> dic = new Dictionary<DateTime, string>();
 
             // ファイルの中身を取得
-            string _path = @"https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv";
+            string _path = @"https://www8.cao.go.jp/chosei/shukujitsu/shukujitsu.csv";
 
             try
             {
